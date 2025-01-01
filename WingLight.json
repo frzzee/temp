@@ -669,31 +669,6 @@
 		]
 	},
 	{
-		"item_desc" :  312004957,
-		"name" :  "l_Prairie_NestAndKeeper_0",
-		"type" :  "wing_buffs",
-		"pickup_id" :  [33,
-			 0,
-			 25,
-			 0,
-			 -1415036480,
-			 120,
-			 1618037161]
-	},
-			 {
-		"item_desc" :  312004957,
-		"name" :  "l_Prairie_NestAndKeeper_1",
-		"type" :  "wing_buffs",
-		"pickup_id" :  [33,
-			 0,
-			 25,
-			 0,
-			 -1415036352,
-			 120,
-			 1601259542
-		]
-	},
-	{
 		"item_desc" :  -1944435120,
 		"name" :  "l_Prairie_Village_0",
 		"type" :  "wing_buffs",
@@ -755,43 +730,6 @@
 		]
 	},
 	{
-		"item_desc" :  -865844794,
-		"name" :  "l_Prairie_WildLifePark_0",
-		"type" :  "wing_buffs",
-		"pickup_id" :  [33,
-			 0,
-			 24,
-			 0,
-			 -1414976608,
-			 120,
-			 -1925588684]
-	},
-			 {
-		"item_desc" :  -865844794,
-		"name" :  "l_Prairie_WildLifePark_1",
-		"type" :  "wing_buffs",
-		"pickup_id" :  [33,
-			 0,
-			 24,
-			 0,
-			 -1415025728,
-			 120,
-			 -1908811065]
-	},
-			 {
-		"item_desc" :  -865844794,
-		"name" :  "l_Prairie_WildLifePark_2",
-		"type" :  "wing_buffs",
-		"pickup_id" :  [33,
-			 0,
-			 24,
-			 0,
-			 -1415088640,
-			 120,
-			 -1892033446
-		]
-	},
-	{
 		"item_desc" :  164626931,
 		"name" :  "l_Rain_0",
 		"type" :  "wing_buffs",
@@ -817,8 +755,7 @@
 		]
 	},
 	{
-		"item_desc" :  -977706424,
-		"name" :  "l_Rain_BaseCamp_0",
+		"i"l_Rain_BaseCamp_0",
 		"type" :  "wing_buffs",
 		"pickup_id" :  [1381985314,
 			 1601071457,
