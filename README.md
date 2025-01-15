@@ -4,5 +4,5 @@
 ## Note
 * Require [GameGuardian](https://gameguardian.net/download). (better latest)
 * Support [non-root](https://gameguardian.net/forum/topic/20322-gameguardian-work-without-root/). (virtual space & virtual phone)
-* Cant be managed all the time. (especially when im lazy)
 * I assume, you know what you are using, you use it intentionally and you are ready for all the consequences.
+* The License File will archived here.
