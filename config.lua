@@ -17,8 +17,8 @@ local getmetatable = getmetatable
 local huge = math.huge
 local tiny = -huge
 
-local utf8_char
-local math_type
+local utf8_char = nil
+local math_type = nil
 
 if _VERSION == "Lua 5.1" or _VERSION == "Lua 5.2" then
     local math_floor = math.floor
